@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pathik Ghugare</h1>
 <!-- <h3 align="center">Ma</h3> -->
 
-- 🔭 I’m currently working as Machine Learning Engineer at [@Pibit.ai](https://github.com/pibit-ai)
+- 🔭 I’m currently working as Machine Learning Engineer 2
 
 - 🌱 I’m currently learning and working on **Vision Language Model**
 
