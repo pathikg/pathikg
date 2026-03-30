@@ -4,7 +4,7 @@
 
 Building production ML systems at the intersection of LLMs, VLMs, and document intelligence.
 
-🔗 **[pathikg.github.io/pathikg](https://pathikg.github.io/pathikg/)** — portfolio & contact
+🔗 **[pathikg.github.io/pathikg](https://pathikg.github.io/)** — portfolio & contact
 
 ---
 
